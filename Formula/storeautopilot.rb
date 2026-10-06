@@ -2,7 +2,7 @@ class Storeautopilot < Formula
   desc "Release Flutter apps to the App Store and Google Play from your own Mac"
   homepage "https://github.com/yenerahmetfahri/StoreAutopilot"
   url "https://github.com/yenerahmetfahri/StoreAutopilot/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "SHA256_OF_THE_V1.0.0_ARCHIVE"
+  sha256 "28064019975110e98de63a7ad7f7f1d370a6c2212e2580066357fb5d661a8b2a"
   license "MIT"
 
   depends_on "fastlane"
